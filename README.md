@@ -8,7 +8,7 @@ The programs are divided into two folders:
 These programs cover lexical analysis, parsing, and code generation.
 
 Program	Description
-Program1.l	Identifies valid identifiers in input.
+Program1.l	Identifies valid identifiers in input.\n
 Program2.l	Recognizes C keywords.
 Program3.l	Classifies operators (arithmetic, relational, logical, etc.).
 Program4.l	Identifies constants, comments, identifiers, and operators.
